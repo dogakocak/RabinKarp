@@ -69,4 +69,9 @@ public class RobinKarp {
     public int CharValue(int coefficient, int power) {
         return (int) (coefficient * (Math.pow(10, power)));
     }
+
+    public void test(){
+        System.out.println("hello from umut");
+    }
+
 }
